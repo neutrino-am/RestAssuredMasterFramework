@@ -26,7 +26,7 @@ Instructions on how to use the framework and execute it :
 1. To create dummy users by making post call to https://reqres.in/api/users
 
 
-2. Driving test with the given a json file.
+2. Drive test with a json file for API request body.
 
 
 3. To have only one test which will run two times with two different set of data sets
